@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aephaivaoy.reia-lang.org/sitemap.xml
